@@ -1,6 +1,7 @@
 # Lab7Web
 
 ## Memulai PHP
+![Screenshoot](ScreenShot_lab7/memulaiphp.png)
 
 ## PHP Dasar
 
